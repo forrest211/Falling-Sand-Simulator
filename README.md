@@ -1,5 +1,5 @@
 # Falling-Sand-Simulator
-A falling sand simulator allowing users to play around with the settings, such as changing the gravity affecting the falling sand.
+A falling sand simulator allowing users to play around with the settings, such as changing the gravity affecting the falling sand. Made with the help of the p5.js Web Editor and Coding Train's tutorial.
 
 # Install Dependencies
 ```bash
