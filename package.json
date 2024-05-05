@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "falling_sand",
+  "version": "1.0.0",
+  "main": "fallingSand.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
