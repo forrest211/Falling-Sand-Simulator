@@ -1,5 +1,5 @@
 # Falling-Sand-Simulator
-A falling sand simulator allowing users to play around with, such as changing the gravity affecting the falling sand.
+A falling sand simulator allowing users to play around with the settings, such as changing the gravity affecting the falling sand.
 
 # Install Dependencies
 ```bash
